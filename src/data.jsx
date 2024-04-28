@@ -2,7 +2,7 @@ export const CV_INFO = {
   Experience: {
     title: "Experience",
     description: (
-      <div>
+      <>
         Year 20XX <br />
         <br />
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam
@@ -57,13 +57,13 @@ export const CV_INFO = {
         totam distinctio non iste ut accusamus, cupiditate cum, nemo unde error
         doloribus? Hic corporis quisquam omnis inventore distinctio enim
         officiis eius.
-      </div>
+      </>
     ),
   },
   Education: {
     title: "Education and Awards",
     description: (
-      <div>
+      <>
         Year 20XX <br />
         <br />
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam{" "}
@@ -90,13 +90,13 @@ export const CV_INFO = {
         Year 20XX <br />
         <br />
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam
-      </div>
+      </>
     ),
   },
   Skills: {
     title: "Skills and Hobbies",
     description: (
-      <div>
+      <>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam
         totam distinctio non iste ut accusamus, cupiditate cum, nemo unde error
         doloribus? Hic corporis quisquam omnis inventore distinctio enim
@@ -105,7 +105,7 @@ export const CV_INFO = {
         totam distinctio non iste ut accusamus, cupiditate cum, nemo unde error
         doloribus? Hic corporis quisquam omnis inventore distinctio enim
         officiis eius. <br />
-      </div>
+      </>
     ),
   },
 };

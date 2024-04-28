@@ -71,6 +71,10 @@ h2 {
   margin: 0 auto;
 }
 
+#meetMe p {
+  margin-bottom: 3rem;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
