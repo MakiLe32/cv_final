@@ -18,9 +18,9 @@ export default function Header() {
         </div>
         <section id="contactBar">
           <ul>
-            <li>Mail: somemail@gmail.com</li>
-            <li>Phone: 0123456789</li>
-            <li>Social: @instagram</li>
+            <li><strong>Mail:</strong> somemail@gmail.com</li>
+            <li><strong>Phone:</strong> +0123456789</li>
+            <li><strong>Social:</strong> <a href="">@instagram</a></li>
           </ul>
         </section>
       </header>

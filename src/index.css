@@ -36,10 +36,23 @@ body {
   justify-content: space-around;
   list-style: none;
   margin: 0;
-  padding: 0.5rem 13rem;
+  /* padding: 0.5rem 13rem; */
   background-color: #ff595a;
   color: rgba(16, 16, 17, 0.87);
   font-weight: 500;
+}
+
+#contactBar li {
+  padding: 0 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(16, 16, 17, 0.87);
+}
+
+a:hover {
+  color: rgba(78, 78, 92, 0.87);
 }
 
 img {
